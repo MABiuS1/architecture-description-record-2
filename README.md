@@ -2,10 +2,12 @@
 2.Implementing RESTful APIs communicate
 ## Context
 Q: What is the issue that we're seeing that is motivating this decision or change?
-A: The need for efficient communication between different components or services in our system.
+
+A: **The need for efficient communication between different components or services in our system.**
 ## Decision
 Q: What is the solution that we're proposing and/or doing?
-A: We are implementing RESTful APIs to facilitate communication between various parts of our system.
+
+A: **We are implementing RESTful APIs to facilitate communication between various parts of our system.**
 ## Rationale
 Q: Why do we choose this solution?
 A: We choose this solution for several reasons:
