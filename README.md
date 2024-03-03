@@ -33,3 +33,4 @@ Q: Cons – What becomes more difficult?
 
 ## Sample code
 Give some sample code related to this decision.
+![image 1.png](img/image1.png)
